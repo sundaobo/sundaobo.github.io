@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Daobo Sun, a Ph.D. student at the School of Aerospace Engineering, Xiamen University. I previously studied at the College of Computer Science and Technology, Harbin Engineering University. 
+
 My research interests include remote sensing image processing, indoor positioning, and multimodal fusion. I am also currently working on generative modeling and related tasks.
+
 I am always open to collaborations. You can find my publications on Google Scholar, and feel free to reach out to me at sundaobo@stu.xmu.edu.cn.
 
 
