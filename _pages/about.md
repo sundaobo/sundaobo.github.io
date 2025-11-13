@@ -21,30 +21,30 @@ I am Daobo Sun, a Ph.D. student at the School of Aerospace Engineering, Xiamen U
 
 My research interests include remote sensing image processing, indoor positioning, and multimodal fusion. I am also currently working on generative modeling and related tasks.
 
-I am always open to collaborations. You can find my publications on Google Scholar, and feel free to reach out to me at sundaobo@stu.xmu.edu.cn.
+I am always open to collaborations. You can find my publications on Google Scholar, and feel free to reach out to me at [sundaobo@stu.xmu.edu.cn](mailto:sundaobo@stu.xmu.edu.cn).
 
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Invited as a peer reviewer for IEEE Sensors Journal!
 - *2025.05*: &nbsp;🎉🎉 My paper on [frequency-fusion-based remote sensing change detection](https://ieeexplore.ieee.org/abstract/document/11045773) has been accepted by IEEE Geoscience and Remote Sensing Letters!
 - *2024.10*: &nbsp;🎉🎉 I joined the Aero Engine Academy of China as a research assistant, focusing on data processing and software development!
-- *2024.09*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang and Prof. Huageng Luo.
+- *2024.09*: &nbsp;🎉🎉 I joined the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang and Prof. Huageng Luo.
 - *2024.06*: &nbsp;🎉🎉 I obtained my master's degree from the College of Computer Science and Technology, Harbin Engineering University. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Geoscience and Remote Sensing Letters</div><img src='images/GFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Geoscience and Remote Sensing Letters</div><img src='images/GFM.png' alt="GFM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GFMNet: A Frequency-Aware Feature Fusion Network for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/11045773)
 
 **Daobo Sun**, Xiangxu Meng, Jinhui Li, Baoqiang Zhang, Wujun Feng
 
-- We proposes GFMNet, a GNN-based remote sensing change detection method that integrates high–low frequency feature fusion and mutual information to enhance boundary precision and semantic consistency. 
+- We propose GFMNet, a GNN-based remote sensing change detection method that integrates high–low frequency feature fusion and mutual information to enhance boundary precision and semantic consistency. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE JSTAR</div><img src='images/CICD.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/CICD.png' alt="CICD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Cross-Temporal Knowledge Injection With Color Distribution Normalization for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10855633)
@@ -55,10 +55,10 @@ Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Systems, Man, and Cybernetics</div><img src='images/PGNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Systems, Man, and Cybernetics</div><img src='images/PGNet.png' alt="PG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sening Change Detection](https://ieeexplore.ieee.org/abstract/document/10830925)
+[PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10830925)
 
 **Daobo Sun**, Kang Sun, Shuo Qin, Bin Tang, Xiangxu Meng
 
@@ -68,7 +68,7 @@ Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Geoscience and Remote Sensing</div><img src='images/wave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Geoscience and Remote Sensing</div><img src='images/wave.png' alt="Wave" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mitigating False Positives in Complex Spectral Scenarios: An Adaptive Wavelet-Enhanced Non-Euclidean Spatial Understanding Framework for Remote Sensing Change Detection
@@ -79,7 +79,7 @@ Mitigating False Positives in Complex Spectral Scenarios: An Adaptive Wavelet-En
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Instrumentation and Measurement</div><img src='images/diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Instrumentation and Measurement</div><img src='images/diff.png' alt="diffusion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Noise Aware Remote Sensing Change Measurement with Diffusion Features and Cross Path Guidance
