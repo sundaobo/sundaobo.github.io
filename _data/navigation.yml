@@ -12,6 +12,9 @@ main:
   - title: "Under Review"
     url: "/#-under-review"
 
+  - title: "Conference"
+    url: "/#-conference"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
