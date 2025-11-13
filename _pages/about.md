@@ -33,7 +33,7 @@ I am always open to collaborations. You can find my publications on Google Schol
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL</div><img src='../images/GFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GFMNet: A Frequency-Aware Feature Fusion Network for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/11045773)
@@ -44,7 +44,7 @@ I am always open to collaborations. You can find my publications on Google Schol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTAR</div><img src='images/CICD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTAR</div><img src='../images/CICD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - [Cross-Temporal Knowledge Injection With Color Distribution Normalization for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10855633)
