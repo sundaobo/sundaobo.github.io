@@ -25,8 +25,11 @@ I am always open to collaborations. You can find my publications on Google Schol
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 Invited as a peer reviewer for IEEE Sensors Journal.
+- *2025.05*: &nbsp;🎉🎉 My paper on [frequency-fusion-based remote sensing change detection]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/11045773)) has been accepted by IEEE Geoscience and Remote Sensing Letters!
+- *2024.10*: &nbsp;🎉🎉 I joined the Aero Engine Academy of China as a research assistant, focusing on data processing and software development.
+- *2024.09*: &nbsp;🎉🎉 I join the Centre for Advanced Machine Design and Data Analytics (CAMDDA) and supervised by Prof. Baoqiang Zhang and Prof. Huageng Luo.
+- *2024.06*: &nbsp;🎉🎉 I obtained my master's degree from the College of Computer Science and Technology, Harbin Engineering University. 
 
 # 📝 Publications 
 
