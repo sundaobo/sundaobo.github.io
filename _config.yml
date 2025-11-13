@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Sundaobo"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sun Daobo"
   avatar           : "images/3.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Xiamen Univerty"
   location         : "Xiamen, China"
   employer         :
   pubmed           : 
