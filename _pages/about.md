@@ -57,25 +57,25 @@ Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Geoscience and Remote Sensing</div><img src='images/GFM' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Geoscience and Remote Sensing</div><img src='images/wave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mitigating False Positives in Complex Spectral Scenarios: An Adaptive Wavelet-Enhanced Non-Euclidean Spatial Understanding Framework for Remote Sensing Change Detection
 
 **Daobo Sun**, Xiaodong Zhang, Zhe Yang
 
-- We proposes GFMNet, a GNN-based remote sensing change detection method that integrates high–low frequency feature fusion and mutual information to enhance boundary precision and semantic consistency. 
+- We propose a graph-enhanced adaptive wavelet transform network with cross-layer knowledge injection and mutual information regularization. It captures multi-scale frequency–spatial features and effectively reduces false positives in complex remote sensing change detection scenarios. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Instrumentation and Measurement</div><img src='images/GFM' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Instrumentation and Measurement</div><img src='images/diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Noise Aware Remote Sensing Change Measurement with Diffusion Features and Cross Path Guidance
 
 **Daobo Sun**, Xiaodong Zhang, Dengyu Wu
 
-- We propose CICD, a cross-temporal knowledge-injection framework with color distribution normalization that enhances feature alignment and change perception for accurate remote sensing change detection. 
+- We propose a diffusion-based cross-path guided framework for remote sensing change detection. It suppresses pseudo-changes and enhances true change representation through noise-conditioned feature aggregation and variance–invariance–covariance regularization. 
 </div>
 </div>
 
