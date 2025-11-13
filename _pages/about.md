@@ -55,7 +55,7 @@ Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</div><img src='images/CICD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</div><img src='images/PGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sening Change Detection](https://ieeexplore.ieee.org/abstract/document/10830925)
