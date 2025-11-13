@@ -40,6 +40,7 @@ I am always open to collaborations. You can find my publications on Google Schol
 
 **Daobo Sun**, Xiangxu Meng, Jinhui Li, Baoqiang Zhang, Wujun Feng
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposes GFMNet, a GNN-based remote sensing change detection method that integrates high–low frequency feature fusion and mutual information to enhance boundary precision and semantic consistency. 
 </div>
 </div>
@@ -47,10 +48,11 @@ I am always open to collaborations. You can find my publications on Google Schol
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTAR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- [Cross-Temporal Knowledge Injection With Color Distribution Normalization for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10855633)
+[Cross-Temporal Knowledge Injection With Color Distribution Normalization for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10855633)
 
 Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose CICD, a cross-temporal knowledge-injection framework with color distribution normalization that enhances feature alignment and change perception for accurate remote sensing change detection. 
 </div>
 </div>
