@@ -17,12 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Sun Daobo , a graduate researcher at the *School of Aerospace Engineering, Xiamen University*.  
-My research focuses on remote sensing image processing and indoor positioning.  
-Specifically, I work on optical/SAR change detection, multi-modal registration, noise-robust image enhancement, and multi-sensor fusion-based indoor localization.  
-I aim to build uncertainty-guided frameworks that improve the reliability and interpretability of perception and positioning models.  
-
-I am also broadly interested in trustworthy AI and uncertainty quantification for multi-modal perception tasks.
+I am Daobo Sun, a Ph.D. student at the School of Aerospace Engineering, Xiamen University. I previously studied at the College of Computer Science and Technology, Harbin Engineering University. 
+My research interests include remote sensing image processing, indoor positioning, and multimodal fusion. I am also currently working on generative modeling and related tasks.
+I am always open to collaborations. You can find my publications on Google Scholar, and feel free to reach out to me at sundaobo@stu.xmu.edu.cn.
 
 
 # 🔥 News
