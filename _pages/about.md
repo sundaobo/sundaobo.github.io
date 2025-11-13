@@ -44,7 +44,7 @@ I am always open to collaborations. You can find my publications on Google Schol
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/CICD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/CICD.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Cross-Temporal Knowledge Injection With Color Distribution Normalization for Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10855633)
