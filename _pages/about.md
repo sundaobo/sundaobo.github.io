@@ -55,6 +55,17 @@ Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</div><img src='images/CICD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sening Change Detection](https://ieeexplore.ieee.org/abstract/document/10830925)
+
+**Daobo Sun**, Kang Sun, Shuo Qin, Bin Tang, Xiangxu Meng
+
+- We propose PGNet, a pure GNN-based method with mutual information sensing for remote sensing change detection. It models non-Euclidean relationships to capture richer features and enhance semantic understanding between bi-temporal images. 
+</div>
+</div>
+
 # 📝 Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Geoscience and Remote Sensing</div><img src='images/wave.png' alt="sym" width="100%"></div></div>
@@ -79,6 +90,11 @@ Noise Aware Remote Sensing Change Measurement with Diffusion Features and Cross 
 </div>
 </div>
 
+# 💬 Conference
+- *2024.10*, The 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia: “PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sening Change Detection” Oral Presentation. 
+- *2023.12*, The 4th International Conference on Computer, Big Data and Artificial Intelligence, Guiyang, China: “Context-aware DL-based Approach Combining GNN and Attention for CSI-based Indoor Localization” Oral Presentation. 
+- *2023.12*, The 2nd International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics, Tianjin, China: “A Hybrid Method for Remote Sensing Change Detection” Oral Presentation. 
+
 # 🎖 Honors and Awards
 - *2023.10* Third-class academic scholarship. 
 - *2022.10* Third-class academic scholarship. 
@@ -88,8 +104,5 @@ Noise Aware Remote Sensing Change Measurement with Diffusion Features and Cross 
 - *2024.09 - present*, Ph.D. in Aerospace Engineering, School of Aerospace Engineering, Xiamen University(XMU), Xiamen, China. 
 - *2021.09 - 2024.06*, Master’s Degree in Software Engineering, College of Computer Science and Technology, Harbin Engineering University(HEU), Harbin, China.
 
-# 💬 Conference
-- *2024.10*, The 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia: “PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sening Change Detection” Oral Presentation. 
-- *2023.12*, The 4th International Conference on Computer, Big Data and Artificial Intelligence, Guiyang, China: “Context-aware DL-based Approach Combining GNN and Attention for CSI-based Indoor Localization” Oral Presentation. 
-- *2023.12*, The 2nd International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics, Tianjin, China: “A Hybrid Method for Remote Sensing Change Detection” Oral Presentation. 
+
 
