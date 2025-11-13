@@ -33,7 +33,7 @@ I am always open to collaborations. You can find my publications on Google Schol
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/GFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL</div><img src='images/GFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GFMNet: A Frequency-Aware Feature Fusion Network for Remote Sensing Change Detection]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://ieeexplore.ieee.org/abstract/document/11045773)
