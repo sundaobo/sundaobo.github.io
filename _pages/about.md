@@ -58,7 +58,7 @@ Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Systems, Man, and Cybernetics</div><img src='images/PGNet.png' alt="PG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10830925)
+[PGNet: A GNN-Based Method with Mutual Information Minimization for Fine-Grained Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/10830925)
 
 **Daobo Sun**, Kang Sun, Shuo Qin, Bin Tang, Xiangxu Meng
 
@@ -91,7 +91,7 @@ Noise Aware Remote Sensing Change Measurement with Diffusion Features and Cross 
 </div>
 
 # 💬 Conference
-- *2024.10*, The 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia: “PGNet: A GNN-Based Method with Mutual Information Minization for Fine-Grained Remote Sening Change Detection” Oral Presentation. 
+- *2024.10*, The 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia: “PGNet: A GNN-Based Method with Mutual Information Minimization for Fine-Grained Remote Sensing Change Detection” Oral Presentation. 
 - *2023.12*, The 4th International Conference on Computer, Big Data and Artificial Intelligence, Guiyang, China: “Context-aware DL-based Approach Combining GNN and Attention for CSI-based Indoor Localization” Oral Presentation. 
 - *2023.12*, The 2nd International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics, Tianjin, China: “A Hybrid Method for Remote Sensing Change Detection” Oral Presentation. 
 
