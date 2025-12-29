@@ -68,7 +68,7 @@ Wenqi Zheng; Junze Yang; Jianing Chen; Jinlong He; Pengfei Li; **Daobo Sun**
 
 # 📝 Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Geoscience and Remote Sensing</div><img src='images/wave.png' alt="Wave" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/wave.png' alt="Wave" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Mitigating False Positives in Complex Spectral Scenarios: An Adaptive Wavelet-Enhanced Non-Euclidean Spatial Understanding Framework for Remote Sensing Change Detection
@@ -79,7 +79,7 @@ Mitigating False Positives in Complex Spectral Scenarios: An Adaptive Wavelet-En
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Instrumentation and Measurement</div><img src='images/diff.png' alt="diffusion" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/diff.png' alt="diffusion" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Noise Aware Remote Sensing Change Measurement with Diffusion Features and Cross Path Guidance
